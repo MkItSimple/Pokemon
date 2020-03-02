@@ -15,4 +15,5 @@ import dagger.Subcomponent
 )
 interface PokemonListComponent {
     fun inject(pokemonListFragment: PokemonListFragment)
+    //
 }
